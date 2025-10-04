@@ -1,0 +1,204 @@
+\documentclass{article}
+\usepackage{kotex}
+\usepackage{lipsum}
+\usepackage{booktabs}
+\usepackage{tipa}
+\usepackage[margin=2cm]{geometry}
+\usepackage{setspace}
+\usepackage{fontawesome5}
+\usepackage{kotex}
+\title{
+    \huge\textbf{2025 - 2\,학기 특별 세션 1\,: 미니 언어학 올림피아드}
+}
+\author{
+    \LARGE
+    \textbf{서울대학교 언어학회}
+}
+\date {\LARGE 2025\,년 10\,월 1\,일}
+\begin{document}
+\maketitle
+\begin{spacing}{1.3}
+\section*{\LARGE 연습문제.} 
+\Large
+다음은 타닥사학어 동사의 기본 형태와 그에 해당하는 상호 형태를 나열한 것이다. 
+\\
+\begin{center}
+\begin{tabular}{@{} l l  l l @{}} 
+기본 형태&    의미 & 상호 형태   &  의미   \\ 
+\midrule 
+\textbf{yid\textgamma \textschwa r} & to be glued  & \textbf{m\textschwa d\textgamma \textschwa r} & to adhere to \\
+\textbf{yilta\textgamma} & to be glued  & \textbf{m\textschwa lta\textgamma} & to adhere together \\
+\textbf{yisk\textschwa l} & to take away& \textbf{m\textschwa sk\textschwa l} & to change against \\
+\textbf{yig\textschwa \textipa{r}} &to push away  &\textbf{m\textschwa g\textschwa \textipa{r}} & to butt \\
+\textbf{yikt\textschwa b} &to write & \textbf{n\textschwa kt\textschwa b} & to write each other \\
+\textbf{yird\textschwa f} & to be unhooked & \textbf{n\textschwa rd\textschwa f} & to hook with \\
+\textbf{yimb\textschwa z} &to disperse & \textbf{n\textschwa mb\textschwa z} & to be dispersed among \\
+\textbf{yirz\textschwa m} & to hang around s.th.   & \textbf{n\textschwa rz\textschwa m} &  to cramp   \\
+\textbf{k\textschwa r\textschwa b\textschwa t} &to join  & \textbf{n\textschwa k\textschwa r\textschwa b\textschwa t} & to join \\
+\textbf{g\textschwa rt\textschwa tt\textschwa f} & to stumble& \textbf{n\textschwa g\textschwa rt\textschwa tt\textschwa f} & to stumble \\
+\end{tabular}
+\end{center}
+\vspace{2em}
+\quad 다음은 추가적인 타닥사학어 동사의 기본 형태와 그에 해당하는 상호 형태이다.  \\
+\begin{center}
+
+\begin{tabular}{@{} l l  l l @{}} 
+기본 형태&    의미 & 상호 형태   &  의미   \\ 
+\midrule 
+\textbf{yi\textgamma b\textschwa r} & (ㄱ)  & (ㄴ) & to squeeze self between  \\[0.5em]
+\textbf{t\textschwa lt\textschwa l} &to roll up &  (ㄷ)  & (ㄹ) \\[0.5em]
+\end{tabular} \\
+\end{center} 
+\vspace{1em}
+\quad 빈칸 (ㄱ)\,$\sim$\,(ㄹ)\,을 채워넣어라. 단, (ㄱ)\,, (ㄹ)\,은 to be tangled up, to squeeze between 중 하나이다. 영어 사전을 사용할 수 있다. \\
+
+\faExclamationTriangle 
+\quad 타닥사학어는 아프리카 말리에서 약 17\,만명이 사용하는 언어이다. \\이 문제에서 사용하는 타닥사학어의 로마자 표기법은 실제 표기를 간략화한 것이다. 
+\begin{flushright}
+\textbf{- 김강래, 유승민}
+\end{flushright}
+\vspace{3em}
+\section*{\LARGE 문제 \#1.} 
+\Large
+다음은 로비아나어 어구와 그 한국어 번역을 \underline{순서에 상관없이} 나타낸 것이다.
+
+
+\vspace{1em}
+\begin{center}
+\Large 
+\begin{minipage}[t]{0.35\textwidth}
+\centering
+\begin{tabular}{l l}
+\textbf{로비아나어} & \textbf{한국어} \\
+\midrule
+ \textbf{toa} & 먹다  \\
+ \textbf{gani} & 살다 \\
+ \textbf{kinera} & 노래하다  \\
+ \textbf{hiva} & 나의 삶  \\
+ \textbf{halehaleana} & 오르다  \\
+ \textbf{zinamana} & 그의 언어  \\
+
+
+\end{tabular}
+\end{minipage}
+\begin{minipage}[t]{0.35\textwidth}
+\centering
+\begin{tabular}{ll}
+\textbf{로비아나어} & \textbf{한국어} \\
+\midrule
+ \textbf{tinoaqu} & 의자 \\
+ \textbf{kera} & 원하다  \\
+ \textbf{hinivana} & 그의 삶  \\
+ \textbf{hale} & 계단  \\
+ \textbf{habohabotuana} & 노래  \\
+\textbf{tinoana} & 그의 소망  \\
+
+\end{tabular}
+\end{minipage}
+\end{center}
+\vspace{1em}
+\Large
+\hspace{10pt}
+\textbf{(a)} 알맞게 짝지어라.  
+\vspace{1em}
+
+\textbf{(b)} 아래는 추가적인 로비아나어 단어이다. (1)\,, (2)\,를 한국어로 번역하여라. \\ [1em]
+\begin{tabular*}{\textwidth}{l @{\extracolsep{\fill}}  l l l} 
+    &(1) - \textbf{habotu}&(2) - \textbf{hinivaqu}& \\[1em]
+\end{tabular*}
+
+
+\textbf{(c)} 다음 한국어 단어 (ㄱ)\,, (ㄴ)\,을 로비아나어로 번역하여라.\\ [1em]
+\begin{tabular*}{\textwidth}{l @{\extracolsep{\fill}}  l l l}
+&(ㄱ) - 말하다&(ㄴ) - 음식& \\[1em]
+\end{tabular*}\\
+\Large
+\faExclamationTriangle
+\quad 로비아나어는 오스트로네시아어족 말레이-폴리네시아어파에 속한다.\\ 솔로몬 제도 뉴조지아섬에 위치한 로비아나 석호 일대에서 약 20000\,명이 사용한다. 
+\begin{flushright}
+    \textbf{- 정원준}
+\end{flushright}
+\section*{\huge 문제 \#2.} 
+다음은 스페인어 단어와 스페인어에서 비롯한 무일락어 단어쌍이다.\\
+
+\begin{center} 
+\begin{tabular}{l l  l }
+\textbf{스페인어} & \textbf{무일락어} &\textbf{의미} \\
+\midrule
+    \textbf{avisa} & \textbf{awisa} & 말하다 \\
+    \textbf{carretera} & \textbf{ka\textipa{R}iti\textipa{R}a} & 도로 \\
+    \textbf{balde} & \textbf{walti} & 물통 \\
+    \textbf{vaca} & \textbf{waka} & 암소 \\
+    \textbf{Sabado} & \textbf{sawadu} & 토요일 \\
+    \textbf{abri} & \textbf{aw\textipa{R}i} & 마법을 풀다 \\
+    \textbf{bolsa} & \textbf{wulsa} & 가방 \\
+    \textbf{lado} & \textbf{lawu} & 옆 \\
+    \textbf{ordena} & \textbf{u\textipa{R}tina} & 정리하다 \\
+    \textbf{pescado} & \textbf{piskawu} & 생선 \\
+\end{tabular}
+\end{center}
+\vspace{1em}
+
+\textbf{(a)} 제시된 단어 중 한 가지는 예상과 다르게 차용되었다. 무슨 단어인지 밝히고, 예상되는 형태를 제시하여라. \\[1em]
+\hspace*{10pt} \textbf{(b)} 다음은 추가적인 스페인어 단어이다. 이 단어들 역시 무일락어에 차용되었다. (1)\,$\sim$\,(6)\,의 무일락어 형태를 제시하라. \\[1em]
+\begin{tabular*}{\textwidth}{l  lll l} 
+& (1) - \textbf{vela} 양초&(2) - \textbf{condenado} 유령&(3) - \textbf{barreta} 작은 지레&\\
+&(4) - \textbf{palabra} 단어&(5) - \textbf{corbata} 넥타이&(6) - \textbf{basura} 쓰레기&
+\end{tabular*}\\[1em]
+
+\faExclamationTriangle \quad 무일락어는 아이마라어족에 속하는 아이마라어의 한 갈래이다.\\ 페루 알티플라노고원에서 해발고도 3200\,m 높이의 무일라케 마을의 몇몇 고령\\ 화자들만이 유창하게 사용한다. 
+오늘날 무일라케 마을의 어린아이들은 스페인어를 구사한다. \\
+\textipa{R}\,은 한국어 ‘자라’의 ‘ㄹ’ 과 비슷한 발음을 나타낸다. r\,과는 다른 자음임에 \\유의하라.\\
+문제에 제시된 모든 스페인어 단어들이 기본형인 것은 아니다. 문제를 푸는 데에는 중요하지 않다. 남아메리카 일대가 스페인의 식민지였던 역사로 인해, 남아메리카의 수많은 언어에는 스페인어의 흔적이 남아있다.  \textbf{- 김강래}
+\vspace{3em}
+
+\section*{\huge 문제 \#3.} 
+\Large
+
+다음은 영어 단어를 데저레트 문자로 적은 것과 그 발음을 음성 기호로 나타낸 것을 \underline{순서에 상관없이} 나열한 것이다.\\
+\vspace{1em}
+
+    1.  [\textipa{g}ri:d],\quad
+    2.   [t\textupsilon k],\quad
+    3.   [ta\textsci m],\quad
+    4.   [pa\textsci n],\quad
+    5.   [\texttheta ru:],\quad
+    6.   [j\ae m],\quad
+    7.   [se\textsci n],\quad
+    8.   [b\textupsilon k],\quad
+    9.   [r\textsci \textipa{ŋ}],\quad
+    10.  [m\textipa{A}:rt\textesh],\quad
+    11.  [t\textturnv k],\quad
+    12.  [pe\textsci n],\quad
+    13. [h\textsci m],\quad
+    14.  [\textesh \textipa{A}:rk]\\
+\vspace{0.1em}
+\\(a) 알맞게 짝지어라.
+\\(b) 다음은 추가적인 영어 단어의 발음을 음성 기호로 나타낸 것이다. (15)$\sim$(19)를 데저레트 문자로 나타내어라. 여러 가지의 답안이 모두 가능하다면 모두 적어라.
+\vspace{0.7em}
+\Large
+\\ \begin{tabular*}{\textwidth}{l @{\extracolsep{\fill}} l l l l}
+(15) - [te\textsci k] \ &(16) - [stra\textsci k]&(17) - [m\textturnv \textesh ru:m]&(18) - [\ae\textipa{ŋ}.\textipa{g}ri:]&(19) - [\textesh r\textsci\textipa{ŋ}k]
+\end{tabular*}
+\vspace*{1cm} \\
+\Large
+(c)	 다음은 영어 단어를 로마자로 적은 것의 집합인 A이다.
+\vspace{1em}
+
+\hspace*{2em}
+A = \{Brand, Happy, Good, Print, Help, Gamble, Blush, Paint\}\\
+\Large  
+아래는 A의 원소 중 임의로 둘을 택하여 데저레트 문자 필기체로 적은 것이다. 데저레트 문자 필기체는 데저레트 문자 인쇄체와 각각의 자형이 유사하다고 알려져있다. (ㄲ), (ㄸ)에 해당하는 영어 단어의 발음을 아래 필기체로 쓰인 글씨를 참고하여 음성 기호로 나타내어라.\\
+% \includegraphics[width=1  \textwidth]{스크린샷 2025-10-01 084358.png}
+\vspace{1em}
+\faExclamationTriangle 
+\ \ \ 영어는 인도유럽어족에 속한다. 전세계에서 수십억 명이 사용한다.\\
+데저레트 문자는 19세기 중반의 미국식 영어를 기반으로 브리검 영에 의해 개발되었다. 영어 철자 개혁 및 몰몬교에서의 사용이라는 두 가지 목적에 의해 제작되었으며, 현재는 극히 소수의 인원에 의해 사용된다.
+\\
+이 문제에서 사용하는 영어의 음성 기호 표기는 실제 표기를 간략화한 것이다. 
+\begin{flushright}
+\textbf{- 유승민}
+\end{flushright}
+\vspace{4cm}
+\end{spacing}
+\end{document}
